@@ -17,7 +17,7 @@ function App() {
             <span className="font-montserrat text-3xl font-bold mb-4">Destaques</span>
             <span className="font-montserrat text-center">Frete grátis e chinelo de brinde é aqui, aproveite por tempo limitado.</span>
           </div>
-          <div className="flex flex-row flex-1 px-5 md:px-24 mb-24">
+          <div className="flex flex-row flex-1 px-5 md:px-20 mb-24">
             <ItemList />
           </div>
         </div>
